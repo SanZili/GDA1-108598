@@ -9,7 +9,7 @@ Submitted by 108598
 > the main jupyter notebook containing:
   * markdown text
   * formatted explanations
-  * codee
+  * code
   * and results for the pandas tasks
 
 2. **HTML file (dist/pandas.html)**:
